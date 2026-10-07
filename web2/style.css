@@ -4,7 +4,10 @@
 h1{
    background-color: plum;
    margin: 0%;
+   border: 2px solid black;
+   padding: 10px;
 }
+
 p{
     color: green;
 }
@@ -14,11 +17,24 @@ nav{
 article p{
     background-color:blanchedalmond;
 }
+article h2{
+    border: 2px solid black;
+}
+section h2{
+    border: 2px solid black;
+}
+aside h3{
+    border: 2px solid black;
+}
 section p{
      background-color:blanchedalmond;
 }
 aside ul{
      background-color:blanchedalmond;
+}
+footer{
+    border: 2px solid rgb(202, 16, 16);
+    background-color: aliceblue;
 }
 
 a{
