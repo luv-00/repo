@@ -1,8 +1,12 @@
+*{
+    background-color: blanchedalmond;
+}
 h1{
-   background-color: aqua;
+   background-color: plum;
+   margin: 0%;
 }
 p{
-    color: rgb(247, 0, 0);
+    color: green;
 }
 nav{
     background-color: blanchedalmond;
@@ -16,11 +20,10 @@ section p{
 aside ul{
      background-color:blanchedalmond;
 }
-footer{
-    background-color: beige;
-}
+
 a{
     text-decoration: none;
+    color: red;
 }
 a:hover {
     background-color: rgb(26, 26, 29);
