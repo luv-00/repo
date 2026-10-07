@@ -18,13 +18,13 @@ article p{
     background-color:blanchedalmond;
 }
 article h2{
-    border: 2px solid black;
+    border: 1px solid black;
 }
 section h2{
-    border: 2px solid black;
+    border: 1px solid black;
 }
 aside h3{
-    border: 2px solid black;
+    border: 1px solid black;
 }
 section p{
      background-color:blanchedalmond;
@@ -33,7 +33,7 @@ aside ul{
      background-color:blanchedalmond;
 }
 footer{
-    border: 2px solid rgb(202, 16, 16);
+    border: .5px solid rgb(202, 16, 16);
     background-color: aliceblue;
 }
 
